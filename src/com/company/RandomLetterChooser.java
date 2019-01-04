@@ -1,6 +1,7 @@
 package com.company;
 
 public class RandomletterChooser extends RandomStringChooser {
+
     public RandomletterChooser(String str) {
         super (getSingleLetters(str));
     }

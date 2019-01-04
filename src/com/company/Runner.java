@@ -1,7 +1,5 @@
 package com.company;
 
-import com.sun.deploy.util.SyncFileAccess;
-
 public class Runner {
 
     public static void main(String[] args) {
